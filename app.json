@@ -83,7 +83,7 @@
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://t.me/HTDGROUPFORMOVIES",
+            "value": "https://t.me/cinemapranthan",
             "required": true
         }
     },
