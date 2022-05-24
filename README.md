@@ -11,7 +11,7 @@
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://youtu.be/LkY2feKT2k0"><img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg"></a> <img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg">
+<a href="https://youtu.be/LkY2feKT2k0"><img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg"></a> <img src="https://github.com/Dasappanb/LuciferMoringstar-Robot/commit/56a0a0faedb1b1e9fc97b8b6300a42fc6679a1c1">
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
