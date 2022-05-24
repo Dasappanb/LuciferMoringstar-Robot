@@ -11,7 +11,7 @@
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://youtu.be/LkY2feKT2k0"><img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
+<a href="https://youtu.be/LkY2feKT2k0"><img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg"></a> <img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg">
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/Dasappanb/LuciferMoringstar-Robot"><img src="https://github.com/Dasappanb/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Dasappanb/LuciferMoringstar-Robot"><img src="https://telegra.ph/file/7c92f4057ea1a7d353c9e.jpg-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
